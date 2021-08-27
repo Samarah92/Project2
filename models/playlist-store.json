@@ -1,0 +1,41 @@
+{
+  "playlistCollection": [
+    {
+      "id": "c0361770-0719-11ec-bab0-8d173f5b37c9",
+      "title": "Homer First List",
+      "songs": []
+    },
+    {
+      "id": "8cedb4b0-071c-11ec-8448-0b22dd69fd3a",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "Homer First List",
+      "songs": []
+    },
+    {
+      "id": "9ec06390-071c-11ec-8448-0b22dd69fd3a",
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "title": "Marges First Playlist",
+      "songs": []
+    },
+    {
+      "id": "d6d932c0-071c-11ec-8448-0b22dd69fd3a",
+      "userid": "cff03f30-071c-11ec-8448-0b22dd69fd3a",
+      "title": "shopping",
+      "songs": [
+        {
+          "id": "1d938dc0-0720-11ec-88a1-5549a8de1294",
+          "title": "shopping1",
+          "artist": "anne",
+          "duration": 4
+        }
+      ],
+      "duration": 4
+    },
+    {
+      "id": "e7bdff30-071c-11ec-8448-0b22dd69fd3a",
+      "userid": "e0c6dad0-071c-11ec-8448-0b22dd69fd3a",
+      "title": "hurray",
+      "songs": []
+    }
+  ]
+}
