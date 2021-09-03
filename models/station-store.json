@@ -1,0 +1,74 @@
+{
+  "stationCollection": [
+    {
+      "id": "01",
+      "title": "Dunmore",
+      "lat": 1000,
+      "lng": 5000,
+      "readings": [
+        {
+          "id": "04",
+          "code": 800,
+          "temperature": 0.5,
+          "windSpeed": 3.5,
+          "pressure": 220,
+          "windDirection": 1001
+        },
+        {
+          "id": "05",
+          "code": 1,
+          "temperature": 2,
+          "windSpeed": 0,
+          "pressure": 0,
+          "windDirection": 0
+        },
+        {
+          "id": "06",
+          "code": 1,
+          "temperature": 2,
+          "windSpeed": 0,
+          "pressure": 0,
+          "windDirection": 0
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Tramore",
+      "duration": 23,
+      "lat": 1000,
+      "lng": 5000,
+      "readings": [
+        {
+          "id": "07",
+          "code": 1,
+          "temperature": 2,
+          "windSpeed": 0,
+          "pressure": 0,
+          "windDirection": 0
+        },
+        {
+          "id": "08",
+          "code": 1,
+          "temperature": 2,
+          "windSpeed": 0,
+          "pressure": 0,
+          "windDirection": 0
+        },
+        {
+          "id": "09",
+          "code": 1,
+          "temperature": 2,
+          "windSpeed": 0,
+          "pressure": 0,
+          "windDirection": 0
+        }
+      ]
+    },
+    {
+      "id": "619b3480-0cb8-11ec-9ca3-153445891ccb",
+      "title": "total",
+      "readings": []
+    }
+  ]
+}
